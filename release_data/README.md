@@ -42,7 +42,7 @@ This repository contains Quantitative Trait Loci (QTL) analysis results from mul
   - AC  
   - DLPFC  
   - PCC  
-  - Path: `/data/analysis_result/single_context/ROSMAP_eQTL/export/summary/[AC|DLPFC|PCC]_DeJager_eQTL.exported.toploci.bed.gz`
+  - Path: `/data/analysis_result/single_context/ROSMAP_eQTL/export/summary/ROSMAP_eQTL.exported.toploci.bed.gz`
 
 #### ROSMAP pseudobulk eQTLs
 - **Cell type–specific QTLs** (from De Jager, Kellis, and combined "mega" datasets):  
@@ -78,7 +78,8 @@ This repository contains Quantitative Trait Loci (QTL) analysis results from mul
   - AC  
   - DLPFC  
   - PCC  
-  - Path: `/data/analysis_result/single_context/ROSMAP_sQTL/export/summary/ROSMAP_[AC|DLPFC|PCC]_sQTL.exported.toploci.bed.gz`
+  - LeafCutter2 Path: `/data/analysis_result/single_context/ROSMAP_sQTL/LeafCutter2/export/summary/ROSMAP_sQTL.exported.toploci.bed.gz`
+  - SSU Path: `/data/analysis_result/single_context/ROSMAP_sQTL/SSU/export/summary/ROSMAP_sQTL.exported.toploci.bed.gz`           
 
 #### STARNET eQTL
 - Macrophage-specific expression QTLs  
